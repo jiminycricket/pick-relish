@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zh-tw"
+title = "Pick Relish 好好吃計畫"
+theme = "ananke"
